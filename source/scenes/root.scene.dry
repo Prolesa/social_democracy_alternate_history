@@ -6,7 +6,7 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= Social Democracy: An Alternate History
+= American Communism: An Alternate History
 
 @start_menu_2
 
@@ -576,7 +576,7 @@ Q.hirschfeld_advisor = 0; // Magnus Hirschfeld
 Q.radbruch_advisor = 0; // Gustav Radbruch
 Q.stampfer_advisor = 0; // Friedrich Stampfer
 !}
-set-bg: img/william_gropper_Hunger_March.jpg
+set-bg: img/Map_BG.png
 new-page: true
 
 > *"Persecution and prosecutions undoubtedly harmed the Communist Party, but the greatest injury was done to it by the party itself. The party was in some ways a continuation of American radicalism, and in some ways its negation. The party fell apart because it would not think for itself, would not face reality; it tried to ride two horses at one time, refused to change when changes became necessary, and finally insisted on committing suicide."*
